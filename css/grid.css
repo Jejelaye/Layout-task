@@ -1,0 +1,17 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+/* main {
+  display: grid;
+  gap: 5px;
+  grid-template-columns: auto;
+  grid-template-rows: auto auto;
+}
+section {
+  background-color: #EB5020;
+  width: 100%;
+  height: calc(50vh - 5px);
+  height: 200px;
+} */
