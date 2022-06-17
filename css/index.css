@@ -48,7 +48,7 @@ section button {
     color: hsla(0, 0%, 100%, 0.75);
     padding: 1.5rem 3.5rem;
     height: 70%;
-    overflow: scroll;
+/*     overflow: scroll; */
   }
   .sedan {
     background-color: hsl(31, 77%, 52%);
